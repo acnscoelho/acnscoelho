@@ -23,7 +23,7 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
   * JMeter/Newman (Performance e Automação)
 * Automação de Testes
   * Web: Selenium Webdriver, Cypress, Playwright
-  * Mobile: WebdriverIO, APPIUM
+  * Mobile: WebdriverIO, Appium
   * APIs: SuperTest
 
 
