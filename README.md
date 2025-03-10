@@ -19,8 +19,11 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 * Banco de Dados
   * SQL Server
   * MongoDB
+* Ambientes de Desenvolvimento
+  * VSCode 
 * Ferramentas de Gestão e Colaboração
   * JIRA
+  * Zephyr
   * Azure
   * Confluence
   * Figma
