@@ -10,19 +10,21 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 * Processo de desenvolvimento
 * Metodologias ágeis - Scrum, Kanban
 
-## Ferramentas e Tecnologias
-* JavaScript
-* Postman
-* K6
-* WebriverIO
-* APPIUM
-* JEST
-* SUPERTEST
-* Insomnia
-* MongoDB
-* SQL Server
-* Selenium Webdriver
-* JMeter/Newman
+## Conhecimentos técnicos
+* Linguagens
+  * JavaScript (incluindo Jest)
+* Banco de Dados
+  * SQL Server
+  * MongoDB
+* Ferramentas para Testes de APIs
+  * Postman
+  * Insomnia
+  * K6 (Performance)
+  * JMeter/Newman (Performance e Automação)
+* Automação de Testes
+  * Web: Selenium Webdriver, Cypress, Playwright
+  * Mobile: WebdriverIO, APPIUM
+  * APIs: SuperTest
 
 
 
