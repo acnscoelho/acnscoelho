@@ -11,7 +11,6 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 * Metodologias ágeis - Scrum, Kanban
 
 ## Ferramentas e Tecnologias
-💡 Conhecimento (Cursos e Estudo)
 * JavaScript
 * Postman
 * K6
@@ -19,11 +18,13 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 * APPIUM
 * JEST
 * SUPERTEST
-  
-🚀 Experiência (Uso no Dia a Dia)
 * Postman
 * Insomnia
 * MongoDB
+* SQL Server
+* Selenium Webdriver
+* JMeter/Newman
+
 
 
 
