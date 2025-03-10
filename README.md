@@ -23,7 +23,7 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
   * JIRA
   * Azure
   * Confluence
-  * FIGMA
+  * Figma
 * Ferramentas para Testes
   * BrowserStack
   * LambdaTest
