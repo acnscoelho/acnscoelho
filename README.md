@@ -18,7 +18,6 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 * APPIUM
 * JEST
 * SUPERTEST
-* Postman
 * Insomnia
 * MongoDB
 * SQL Server
