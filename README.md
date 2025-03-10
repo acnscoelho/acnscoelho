@@ -11,9 +11,6 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 * Metodologias ágeis - Scrum, Kanban
 
 ## Conhecimentos técnicos
-* Metodologias Ágeis
-  * Scrum
-  * Kanban
 * Linguagens
   * JavaScript (incluindo Jest)
 * Banco de Dados
