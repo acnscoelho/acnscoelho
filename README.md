@@ -12,7 +12,7 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 
 ## Conhecimentos técnicos
 * Linguagens
-  * JavaScript (incluindo Jest)
+  * JavaScript (incluindo Jest) (básico)
 * Banco de Dados
   * SQL Server
   * MongoDB
@@ -33,9 +33,9 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
   * K6 (Performance)
   * JMeter/Newman (Performance e Automação)
 * Automação de Testes
-  * Web: Selenium Webdriver, Cypress, Playwright
-  * Mobile: WebdriverIO, Appium
-  * APIs: SuperTest
+  * Web: Selenium Webdriver, Cypress, Playwright (básico)
+  * Mobile: WebdriverIO, Appium (básico)
+  * APIs: SuperTest (básico)
 
 
 
