@@ -27,6 +27,7 @@ Sou entusiasta das melhores tecnologias de testes e formada em Tecnologia em Pro
 * Ferramentas para Testes
   * BrowserStack
   * LambdaTest
+  * Feature Flag (Optimizely)
 * Ferramentas para Testes de APIs
   * Postman
   * Insomnia
