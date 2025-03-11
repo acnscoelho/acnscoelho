@@ -1,7 +1,7 @@
 ## <h2 align="center">Oi!!! Sou Ana Cláudia Coelho👋</h2>
 <h2 align="center">Seja bem-vindo(a) ao meu perfil!</h2>
 
-Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Processamento de Dados, com duas pós-graduações: Análise de Sistemas e Automação em Testes de Software. Antes de migrar para a área de QA, atuei como desenvolvedora Web e Desktop. Continuo me atualizando constantemente por meio de mentorias, Test.Class, cursos voltados para as ferramentas que utilizo no dia a dia, incluindo um de IA para QAs.
+Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Processamento de Dados, com pós-graduações em Análise de Sistemas e Automação em Testes de Software. Antes de migrar para a área de QA, atuei como desenvolvedora Web e Desktop. Continuo me atualizando constantemente por meio de mentorias, Test.Class, cursos voltados para as ferramentas que utilizo no dia a dia, incluindo um de IA para QAs.
 
 ## Experiências
 
