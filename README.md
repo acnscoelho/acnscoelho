@@ -34,7 +34,9 @@ Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Proc
   * K6 (Performance)
   * JMeter/Newman (Performance e Automação)
 * Monitoramento e Análise
-  * Braze, New Relic, Amplitude
+  * Braze
+  * New Relic
+  * Amplitude
 * Automação de Testes
   * Web: Selenium Webdriver, Cypress, Playwright (básico)
   * Mobile: WebdriverIO, Appium (básico)
