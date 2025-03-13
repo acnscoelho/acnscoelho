@@ -12,7 +12,7 @@ Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Proc
 
 ## Conhecimentos técnicos
 * Linguagens
-  * JavaScript (incluindo Jest) (básico)
+  * JavaScript (incluindo Jest), GraphQL (básico)
 * Banco de Dados
   * SQL Server
   * MongoDB
