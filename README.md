@@ -39,7 +39,7 @@ Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Proc
   * Amplitude
 * Automação de Testes
   * Web: Selenium Webdriver, Cypress, Playwright (básico)
-  * Mobile: WebdriverIO, Appium (básico)
+  * Mobile: WebdriverIO, Appium, Maestro (básico)
   * APIs: SuperTest (básico)
 
 
