@@ -24,10 +24,12 @@ Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Proc
   * Azure
   * Confluence
   * Figma
+  * Slack
 * Ferramentas para Testes
   * BrowserStack
   * LambdaTest
   * Feature Flag (Optimizely)
+  * App Center
 * Ferramentas para Testes de APIs
   * Postman
   * Insomnia
