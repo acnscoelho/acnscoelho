@@ -12,7 +12,7 @@ Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Proc
 
 ## Conhecimentos técnicos
 * Linguagens
-  * JavaScript (incluindo Jest), GraphQL (básico)
+  * JavaScript (incluindo Jest), GraphQL
 * Banco de Dados
   * SQL Server
   * MongoDB
@@ -41,9 +41,9 @@ Entusiasta das melhores tecnologias de testes, sou formada em Tecnologia em Proc
   * Amplitude
   * Segment
 * Automação de Testes
-  * Web: Selenium Webdriver, Cypress, Playwright (básico)
-  * Mobile: WebdriverIO, Appium, Maestro (básico)
-  * APIs: SuperTest (básico)
+  * Web: Selenium Webdriver, Cypress, Playwright
+  * Mobile: WebdriverIO, Appium, Maestro
+  * APIs: SuperTest
 
 
 
